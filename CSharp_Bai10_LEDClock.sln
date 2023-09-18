@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_Bai10_LEDClock", "CSharp_Bai10_LEDClock.csproj", "{6C434BEB-6D33-4298-9DCA-49D37D3F2BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C434BEB-6D33-4298-9DCA-49D37D3F2BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C434BEB-6D33-4298-9DCA-49D37D3F2BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C434BEB-6D33-4298-9DCA-49D37D3F2BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C434BEB-6D33-4298-9DCA-49D37D3F2BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {589539B0-2A6D-4FB1-8835-B4F77F68916E}
+	EndGlobalSection
+EndGlobal
